@@ -8,6 +8,13 @@ Practical, agent-readable recipes for solving ecommerce data problems with
 > what to ask, what to submit, when to wait, how to recover, and how to interpret
 > results. They are not instructions to run source requests without your approval.
 
+## What is datawebot?
+
+datawebot gives AI agents ecommerce product data: product search across online shops
+worldwide and seller offers with direct links to each shop, through an MCP server.
+
+Learn more: [About datawebot](https://www.datawebot.com/about).
+
 ## Start here
 
 1. Read [the agent instructions](AGENTS.md) and [the polling contract](guides/polling.md).
